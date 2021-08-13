@@ -4,6 +4,7 @@
 - 👀 I’m interested in ... creating challenging projects and learning more about AI 
 - 🌱 I’m currently learning ... java language 
 - 💞️ I’m looking to collaborate on ... java & python 
-- 📫 How to reach me ...
+- 📫 How to reach me ...https://www.linkedin.com/in/itay-nir-a880021ab/
+-
 
 
