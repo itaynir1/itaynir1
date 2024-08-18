@@ -8,15 +8,15 @@
 - 📫 How to reach me ...https://www.linkedin.com/in/itay-nir-a880021ab/<br>
 <br> </br>
 
-<h1 class="orange-text">
-    🔧 Technologies and Tools
-</h1>
-<style>
-    .orange-text {
-        color: rgb(255, 127, 39);
-    }
-</style>
-
+<h2 tabindex="-1" class="heading-element" dir="auto"><math-renderer class="js-inline-math" style="display: inline-block" data-static-url="https://github.githubassets.com/static" data-run-id="40669a87c5e8f3b9e58a0eeeb2630ca7" data-mathml-enabled="true" data-catalyst=""><math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mstyle mathcolor="rgb(255,127,39)">
+    <mstyle mathsize="1.2em">
+      <mrow data-mjx-texclass="ORD">
+        <mtext mathvariant="sans-serif" class="">🔧 Technologies and Tools</mtext>
+      </mrow>
+    </mstyle>
+  </mstyle>
+</math></math-renderer></h2>
 <div align="left" dir="auto">
     <div class="markdown-heading" dir="auto">
         <h3 class="heading-element" dir="auto">Programming Languages</h3>
