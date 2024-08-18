@@ -8,9 +8,7 @@
 - 📫 How to reach me ...https://www.linkedin.com/in/itay-nir-a880021ab/<br>
 <br> </br>
 
-    
-## $\color{rgb(255,127,39)}\large{\textsf{📈 GitHub Stats}}$
-<div align="center">
+<div align="left">
   
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itaynir1&count_private=true&show_icons=true&theme=calm_pink)](https://github.com/itaynir1)
 
