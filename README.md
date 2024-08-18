@@ -35,13 +35,10 @@
         <a href="https://www.python.org" rel="nofollow">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width: 100%;">
         </a>
-    </div>
+    </div>    
 
 ## $\color{rgb(255,127,39)}\large{\textsf{📈 GitHub Stats}}$
-
-<div align="center">
-  
+<div align="center">  
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itaynir1&count_private=true&show_icons=true&theme=calm_pink)](https://github.com/itaynir1)
-
 </div>
 
