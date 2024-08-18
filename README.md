@@ -7,13 +7,6 @@
 - 🔒 Seeking opportunities in Cybersecurity field! 🛡️ 
 - 📫 How to reach me ...https://www.linkedin.com/in/itay-nir-a880021ab/<br>
 <br> </br>
-<style>
-    .orange-text {
-        color: rgb(255, 127, 39);
-        font-size: 24px;
-        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    }
-</style>
 
 <h1 class="orange-text">
     🔧 Technologies and Tools
