@@ -5,9 +5,7 @@
 - 🌱 I’m currently learning ... c/c++ language 
 - 💞️ I’m looking to collaborate on ... java & python
 - 🔒 Seeking opportunities in Cybersecurity field! 🛡️ 
-- 📫 How to reach me ...https://www.linkedin.com/in/itay-nir-a880021ab/<br>
-<br> </br>
-
+- 📫 How to reach me ...https://www.linkedin.com/in/itay-nir-a880021ab/
 <div align="left">
   
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itaynir1&count_private=true&show_icons=true&theme=calm_pink)](https://github.com/itaynir1)
