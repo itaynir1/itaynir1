@@ -7,3 +7,4 @@
 - 🔒 Seeking opportunities in Cybersecurity field! 🛡️ 
 - 📫 How to reach me ...https://www.linkedin.com/in/itay-nir-a880021ab/
 
+<h1 align="center" class="heading-element" dir="auto">Hi there! 👋</h1>
