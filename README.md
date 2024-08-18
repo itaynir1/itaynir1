@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi, I’m @itaynir<br>👀 I’m interested in ... creating challenging projects and learning more about Ai<br>🌱 I’m currently learning ... c/c++ language<br>💞️ I’m looking to collaborate on ... java & python & Ai & ML & DL<br>🔒 Seeking opportunities in the Data Science and Cybersecurity field! 🛡️<br>📫 How to reach me ...https://www.linkedin.com/in/itay-nir-a880021ab/<br>
+# 👋 Hi, I’m itaynir:
+ 👀 I’m interested in ... creating challenging projects and learning more about Ai<br>🌱 I’m currently learning ... c/c++ language<br>💞️ I’m looking to collaborate on ... java & python & Ai & ML & DL<br>🔒 Seeking opportunities in the Data Science and Cybersecurity field! 🛡️<br>📫 How to reach me ...https://www.linkedin.com/in/itay-nir-a880021ab/<br>
 
 
 ## 🌐 Socials:
