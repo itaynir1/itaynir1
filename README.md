@@ -11,6 +11,11 @@
 <h1 class="orange-text">
     🔧 Technologies and Tools
 </h1>
+<style>
+    .orange-text {
+        color: rgb(255, 127, 39);
+    }
+</style>
 
 <div align="left" dir="auto">
     <div class="markdown-heading" dir="auto">
