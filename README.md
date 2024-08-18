@@ -7,8 +7,7 @@
 - 🔒 Seeking opportunities in Cybersecurity field! 🛡️ 
 - 📫 How to reach me ...https://www.linkedin.com/in/itay-nir-a880021ab/<br>
 <br> </br>
-## $\color(RGB(255,127,39)}\large{\textf}{🔧 Technologies and Tools}}$
-<mtext mathvariant="sans-serif">🔧 Technologies and Tools</mtext>
+## $\color(RGB(255,127,39)}\large{\textsf{🔧 Technologies and Tools}}$
 <div align="left" dir="auto">
     <div class="markdown-heading" dir="auto">
         <h3 class="heading-element" dir="auto">Programming Languages</h3>
