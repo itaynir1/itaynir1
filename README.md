@@ -37,7 +37,7 @@
         </a>
     </div>
 
-    ## $\color{rgb(255,127,39)}\large{\textsf{📈 GitHub Stats}}$
+## $\color{rgb(255,127,39)}\large{\textsf{📈 GitHub Stats}}$
 
 <div align="center">
   
