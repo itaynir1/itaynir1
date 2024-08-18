@@ -7,7 +7,6 @@
 - 🔒 Seeking opportunities in Cybersecurity field! 🛡️ 
 - 📫 How to reach me ...https://www.linkedin.com/in/itay-nir-a880021ab/<br>
 <br> </br>
-![Technologies and Tools](https://via.placeholder.com/500x100/ff7f27/000000?text=%F0%9F%94%A7+Technologies+and+Tools)
 
 <div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><math-renderer class="js-inline-math" style="display: inline-block" data-static-url="https://github.githubassets.com/static" data-run-id="40669a87c5e8f3b9e58a0eeeb2630ca7" data-mathml-enabled="true" data-catalyst=""><math xmlns="http://www.w3.org/1998/Math/MathML">
   <mstyle mathcolor="rgb(255,127,39)">
